@@ -23,6 +23,8 @@ This command-line application dynamically generates a ReadMe from a series of pr
 npm install
 ## Usage:
 To run this application, use node index.js
+Link to video demonstration:
+https://drive.google.com/file/d/1BwG6fnKEEPKhgh41uj1Bej3UE-Zfu3dd/view
 ## License:
 None
 ## Contributing:
